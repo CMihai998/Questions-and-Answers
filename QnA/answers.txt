@@ -1,0 +1,6 @@
+Banu,7,7,Ce e ala?,33
+Andrei,3,3,Nu cred ca pot,16
+Banu,3,3,Imposibil,0
+Edi,3,3,O sa ai nevoie de un sac menajer doua kg de faina si balonase de sapun,0
+Edi,9,9,Dar sa te plimbi nu iti mai place?,0
+Banu,8,8,Formol,0

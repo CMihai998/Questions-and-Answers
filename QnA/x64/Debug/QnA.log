@@ -1,0 +1,10 @@
+﻿  QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly.
+  Moc'ing UserGUI.h...
+  Moc'ing searchGUI.h...
+  Rcc'ing UserGUI.qrc...
+RCC : warning : No resources in 'M:\Facultate\Info\OOP\Exam\QnA\QnA\UserGUI.qrc'.
+  
+  moc_UserGUI.cpp
+  moc_searchGUI.cpp
+  qrc_UserGUI.cpp
+  QnA.vcxproj -> M:\Facultate\Info\OOP\Exam\QnA\x64\Debug\QnA.exe
